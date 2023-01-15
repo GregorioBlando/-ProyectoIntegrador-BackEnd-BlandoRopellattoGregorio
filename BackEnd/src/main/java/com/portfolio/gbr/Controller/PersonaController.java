@@ -4,7 +4,7 @@
  */
 package com.portfolio.gbr.Controller;
 
-import com.portfolio.gbr.Entity.Persona;
+import com.portfolio.gbr.Entidad.Persona;
 import com.portfolio.gbr.Interface.IPersonaService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

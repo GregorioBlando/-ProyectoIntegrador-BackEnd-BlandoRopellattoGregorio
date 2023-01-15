@@ -4,7 +4,7 @@
  */
 package com.portfolio.gbr.Interface;
 
-import com.portfolio.gbr.Entity.Persona;
+import com.portfolio.gbr.Entidad.Persona;
 import java.util.List;
 
 
