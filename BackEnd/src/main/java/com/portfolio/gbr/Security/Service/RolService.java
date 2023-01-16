@@ -4,7 +4,7 @@
  */
 package com.portfolio.gbr.Security.Service;
 
-import com.portfolio.gbr.Security.Entity.Rol;
+import com.portfolio.gbr.Security.Entidad.Rol;
 import com.portfolio.gbr.Security.Enums.RolNombre;
 import com.portfolio.gbr.Security.Repository.iRolRepository;
 import jakarta.transaction.Transactional;

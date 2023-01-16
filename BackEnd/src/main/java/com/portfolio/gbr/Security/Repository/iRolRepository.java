@@ -4,7 +4,7 @@
  */
 package com.portfolio.gbr.Security.Repository;
 
-import com.portfolio.gbr.Security.Entity.Rol;
+import com.portfolio.gbr.Security.Entidad.Rol;
 import com.portfolio.gbr.Security.Enums.RolNombre;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -4,7 +4,7 @@
  */
 package com.portfolio.gbr.Security.Service;
 
-import com.portfolio.gbr.Security.Entity.Usuario;
+import com.portfolio.gbr.Security.Entidad.Usuario;
 import com.portfolio.gbr.Security.Repository.iUsuarioRepository;
 import jakarta.transaction.Transactional;
 import java.util.Optional;

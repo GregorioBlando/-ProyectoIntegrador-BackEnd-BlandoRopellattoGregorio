@@ -4,8 +4,8 @@
  */
 package com.portfolio.gbr.Security.Service;
 
-import com.portfolio.gbr.Security.Entity.Usuario;
-import com.portfolio.gbr.Security.Entity.UsuarioPrincipal;
+import com.portfolio.gbr.Security.Entidad.Usuario;
+import com.portfolio.gbr.Security.Entidad.UsuarioPrincipal;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

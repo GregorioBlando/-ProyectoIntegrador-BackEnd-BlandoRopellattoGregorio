@@ -4,7 +4,7 @@
  */
 package com.portfolio.gbr.Security.Jwt;
 
-import com.portfolio.gbr.Security.Entity.UsuarioPrincipal;
+import com.portfolio.gbr.Security.Entidad.UsuarioPrincipal;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.MalformedJwtException;
